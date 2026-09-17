@@ -1,0 +1,1658 @@
+[
+  {
+    "osm_id": 640553597,
+    "name": "SFS High School & Jr. College",
+    "lat": 21.160801,
+    "lon": 79.081692,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 2166440645,
+    "name": "Nutan Bharat Vidyalaya",
+    "lat": 21.127266,
+    "lon": 79.055936,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 2533246648,
+    "name": "Bhosla Ved School",
+    "lat": 21.145521,
+    "lon": 79.112728,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 2565937118,
+    "name": "Somalwar Nikalas School",
+    "lat": 21.106815,
+    "lon": 79.057172,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 2566005144,
+    "name": "Dr. Ambedkar College",
+    "lat": 21.129216,
+    "lon": 79.067581,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 2566007304,
+    "name": "Bal Mandir Secondary School (Paranjape School)",
+    "lat": 21.127589,
+    "lon": 79.06159,
+    "amenity": "school",
+    "village": "Nagpur",
+    "street": ""
+  },
+  {
+    "osm_id": 3068204779,
+    "name": "GS Collage of Commerce and Economics",
+    "lat": 21.147076,
+    "lon": 79.063062,
+    "amenity": "college",
+    "village": "Nagpur",
+    "street": "Amravati Rd, RTO Rd, Near HP Petrol Pump, Law College Square, Civil Lines"
+  },
+  {
+    "osm_id": 3068217213,
+    "name": "Dr. Ambedkar Law College",
+    "lat": 21.147648,
+    "lon": 79.061085,
+    "amenity": "college",
+    "village": "Nagpur",
+    "street": "Amravati Road, Law College Square Law College Square"
+  },
+  {
+    "osm_id": 3125270191,
+    "name": "guru nanak institute of engnieering and technology",
+    "lat": 21.221347,
+    "lon": 78.947739,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 3141278198,
+    "name": "Podar World School",
+    "lat": 21.208734,
+    "lon": 79.074086,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 3141292947,
+    "name": "Yashoda High School & Jr College",
+    "lat": 21.111784,
+    "lon": 79.03835,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 3143164147,
+    "name": "New English High School",
+    "lat": 21.146791,
+    "lon": 79.104567,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 3143194682,
+    "name": "C P & Berar High School",
+    "lat": 21.153818,
+    "lon": 79.05498,
+    "amenity": "school",
+    "village": "Nagpu",
+    "street": ""
+  },
+  {
+    "osm_id": 3143579331,
+    "name": "City Premier College",
+    "lat": 21.158365,
+    "lon": 79.080625,
+    "amenity": "college",
+    "village": "Nagpur",
+    "street": "Wardha Road, Hindustan Colony, Samarth Nagar"
+  },
+  {
+    "osm_id": 3148664957,
+    "name": "Bhavan's Bhagwandas Purohit Vidya Mandir",
+    "lat": 21.131399,
+    "lon": 79.134526,
+    "amenity": "school",
+    "village": "Nagpur",
+    "street": "Srikrishna Nagar,"
+  },
+  {
+    "osm_id": 3148691991,
+    "name": "Husamiah Boys & Girls High School",
+    "lat": 21.159054,
+    "lon": 79.119913,
+    "amenity": "school",
+    "village": "Nagpur",
+    "street": "Beside Jamali High School, Shantinagar Colony"
+  },
+  {
+    "osm_id": 3154051590,
+    "name": "Shri Balasaheb Tirpude College Of Hotel Management and Catering Technology",
+    "lat": 21.162354,
+    "lon": 79.070446,
+    "amenity": "college",
+    "village": "Nagpur",
+    "street": "Shri Nasikraoji Tirpude Marg, Civil Lines, Sadar,"
+  },
+  {
+    "osm_id": 3757111159,
+    "name": "Atlanta Computer Institute",
+    "lat": 21.143754,
+    "lon": 79.061406,
+    "amenity": "school",
+    "village": "Nagpur",
+    "street": "West High Court Road"
+  },
+  {
+    "osm_id": 3953530489,
+    "name": "ZP Primary School",
+    "lat": 21.333367,
+    "lon": 79.328986,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 3977419489,
+    "name": "SECRWWO's Kindergarten Ajni",
+    "lat": 21.126436,
+    "lon": 79.091271,
+    "amenity": "kindergarten",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 3977421067,
+    "name": "Maharashtra Adhyapak Vidyalaya",
+    "lat": 21.130422,
+    "lon": 79.096218,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 4283949290,
+    "name": "Yeshwantrao Chavan College of Engineering",
+    "lat": 21.095225,
+    "lon": 78.978564,
+    "amenity": "school",
+    "village": "",
+    "street": "Hingna road"
+  },
+  {
+    "osm_id": 4426379466,
+    "name": "Saoner Public School",
+    "lat": 21.376402,
+    "lon": 78.946806,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 4433945916,
+    "name": "Sacred Heart Academy (CBSE)",
+    "lat": 21.300743,
+    "lon": 79.073739,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 4445299590,
+    "name": "Saraswati Vidyalaya",
+    "lat": 21.142017,
+    "lon": 79.083444,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 4494244790,
+    "name": "Saraswati Shishu Mandir",
+    "lat": 21.215877,
+    "lon": 79.201801,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 4576965030,
+    "name": "Shree Samarth High School and Junior College",
+    "lat": 21.327712,
+    "lon": 79.438811,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 5057603991,
+    "name": "Lokanchi Shala",
+    "lat": 21.137814,
+    "lon": 79.107181,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 5098230066,
+    "name": "Gurukul College of Arts & Commerce",
+    "lat": 21.115051,
+    "lon": 79.108114,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 5098230777,
+    "name": "Dadasaheb Khadse High School",
+    "lat": 21.110941,
+    "lon": 79.10995,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 5098231026,
+    "name": "Shivraj Higher Primary School",
+    "lat": 21.115028,
+    "lon": 79.108115,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 5212355227,
+    "name": "Madarsa Faizane Sakhi Sarkar",
+    "lat": 21.66043,
+    "lon": 79.410827,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 5212497532,
+    "name": "ZP Primary School, Tangla",
+    "lat": 21.530987,
+    "lon": 79.49051,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 5212497632,
+    "name": "Rani Durgawati Adivasi Primary/Secondary Ashram School, Tangla",
+    "lat": 21.529907,
+    "lon": 79.494731,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 5262078700,
+    "name": "Zilla Parishad Primary School, Bhilgaon",
+    "lat": 21.195233,
+    "lon": 79.143716,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 5365827732,
+    "name": "Jawahar Navodaya Vidyalaya",
+    "lat": 21.464871,
+    "lon": 79.164648,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 5365875627,
+    "name": "Lal Bahadur Shastri Junior College, Baburwada",
+    "lat": 21.413086,
+    "lon": 79.156253,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 5365875660,
+    "name": "Zilla Parishad Primary School, Saleghat",
+    "lat": 21.523165,
+    "lon": 79.051351,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 5420260547,
+    "name": "Swami Vivekanand High School and Junior College, Devlapar",
+    "lat": 21.588404,
+    "lon": 79.37128,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 5434448123,
+    "name": "Untkhana Marathi Primary School",
+    "lat": 21.13576,
+    "lon": 79.099391,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6154193921,
+    "name": "Sindhu Mahavidyalaya",
+    "lat": 21.164217,
+    "lon": 79.104507,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6210455400,
+    "name": "ZP Primary School Erangaon",
+    "lat": 21.32836,
+    "lon": 78.971847,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6210466182,
+    "name": "ZP Primary School Kusumbi",
+    "lat": 21.339525,
+    "lon": 78.993531,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6218471134,
+    "name": "Seth Kesarimal Porwal College Kamptee",
+    "lat": 21.211007,
+    "lon": 79.205844,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6218471170,
+    "name": "SK Porwal Junior College of Arts, Commerce & Science",
+    "lat": 21.209544,
+    "lon": 79.205461,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6218471909,
+    "name": "Hardas High School Kamptee",
+    "lat": 21.211845,
+    "lon": 79.199112,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6218471910,
+    "name": "Dragon International School Kamptee",
+    "lat": 21.209119,
+    "lon": 79.20358,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6218471923,
+    "name": "Dadasaheb Kumbhare pvt ITI",
+    "lat": 21.205015,
+    "lon": 79.200099,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6218471961,
+    "name": "Swami Awadheshanand Public School Kamptee",
+    "lat": 21.206111,
+    "lon": 79.201679,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6218471962,
+    "name": "Smt. Kishoritai Bhoyar College of Pharmacy",
+    "lat": 21.205708,
+    "lon": 79.20141,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6218472027,
+    "name": "Kamptee Polytechnic",
+    "lat": 21.204818,
+    "lon": 79.201539,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6219037091,
+    "name": "Edify School Nagpur",
+    "lat": 21.207279,
+    "lon": 79.157438,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6219037153,
+    "name": "Indian Olympiad School",
+    "lat": 21.205473,
+    "lon": 79.162057,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6225366732,
+    "name": "Deshbhakt Ratnappa Kumbhar Vidyalaya",
+    "lat": 21.21448,
+    "lon": 79.192961,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6249232325,
+    "name": "Jivan Shikshan Vidyalaya Untakhana",
+    "lat": 21.133592,
+    "lon": 79.100306,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6249378627,
+    "name": "Shivaji Upper Primary School Mauda",
+    "lat": 21.144796,
+    "lon": 79.393603,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6249378641,
+    "name": "Anganwadi Kendra Mauda",
+    "lat": 21.145586,
+    "lon": 79.395145,
+    "amenity": "kindergarten",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6249378654,
+    "name": "ZP Primary School Mauda",
+    "lat": 21.145802,
+    "lon": 79.396878,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6249378887,
+    "name": "Janata Vidyalaya ani Kanishth Mahavidyalaya Mauda",
+    "lat": 21.146798,
+    "lon": 79.399859,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6249378937,
+    "name": "Adarsh Public School Mauda",
+    "lat": 21.146985,
+    "lon": 79.40394,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6249378977,
+    "name": "DD Bhoyar Arts and Science College Mauda",
+    "lat": 21.147373,
+    "lon": 79.405942,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6901521285,
+    "name": "Durganagar Marathi Primary School",
+    "lat": 21.116125,
+    "lon": 79.107246,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6901521286,
+    "name": "Durganagar Hindi Primary School",
+    "lat": 21.116131,
+    "lon": 79.107129,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6901521287,
+    "name": "Durganagar High School",
+    "lat": 21.116471,
+    "lon": 79.107459,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6924782385,
+    "name": "Dadasaheb Thakre High School",
+    "lat": 21.110341,
+    "lon": 79.121497,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6924782485,
+    "name": "Dadasaheb Thakre Primary School",
+    "lat": 21.110505,
+    "lon": 79.121715,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6926102685,
+    "name": "Yashwant English School",
+    "lat": 21.090568,
+    "lon": 79.090427,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 6969443488,
+    "name": "\u091c\u093e\u0928\u0915\u0940\u0928\u0917\u0930 \u092e\u0930\u093e\u0920\u0940 \u092a\u094d\u0930\u093e\u0925\u092e\u093f\u0915 \u0936\u093e\u0933\u093e",
+    "lat": 21.09935,
+    "lon": 79.113665,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 7021992886,
+    "name": "Government Industrial Training Institute",
+    "lat": 20.925101,
+    "lon": 79.001049,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 7276051109,
+    "name": "School of Scholars",
+    "lat": 21.0947,
+    "lon": 78.975992,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 7831731985,
+    "name": "Mahalle Convent",
+    "lat": 21.106436,
+    "lon": 79.11352,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 8515777117,
+    "name": "Royal Gondwana Public School",
+    "lat": 21.053228,
+    "lon": 79.079073,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 8785138493,
+    "name": "Marie Poussepin's Academy",
+    "lat": 21.214055,
+    "lon": 79.13339,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 8785173790,
+    "name": "Delhi Public School",
+    "lat": 21.214295,
+    "lon": 79.159176,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 10832230217,
+    "name": "saket primary school",
+    "lat": 20.815541,
+    "lon": 78.958504,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 10902882854,
+    "name": "Kidzee",
+    "lat": 21.118205,
+    "lon": 79.11022,
+    "amenity": "kindergarten",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 11365600906,
+    "name": "Smt. KDM Girls College",
+    "lat": 21.153045,
+    "lon": 79.030591,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 11575936046,
+    "name": "Podar Jumbo Kids",
+    "lat": 21.182123,
+    "lon": 79.036756,
+    "amenity": "kindergarten",
+    "village": "Nagpur",
+    "street": "Katol Road"
+  },
+  {
+    "osm_id": 11621630392,
+    "name": "St. Ann's School",
+    "lat": 21.289636,
+    "lon": 79.087531,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 12548667857,
+    "name": "St. Paul School and Junior College",
+    "lat": 21.086196,
+    "lon": 79.122144,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 13686160363,
+    "name": "Nagar Parishad Junior College",
+    "lat": 21.234401,
+    "lon": 78.913946,
+    "amenity": "college",
+    "village": "kalmeshwar",
+    "street": ""
+  },
+  {
+    "osm_id": 13686160364,
+    "name": "Nagar Parishad School Kalmeshwar",
+    "lat": 21.234435,
+    "lon": 78.913694,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 13686160368,
+    "name": "Pratap High School",
+    "lat": 21.234595,
+    "lon": 78.909526,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 13686160396,
+    "name": "Regent High School Kalmeshwar",
+    "lat": 21.239532,
+    "lon": 78.895695,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 13686160397,
+    "name": "KZS Science College Bramhani",
+    "lat": 21.251425,
+    "lon": 78.907507,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 13686163501,
+    "name": "Mankar Adarsha Vidyalaya",
+    "lat": 21.257028,
+    "lon": 78.910155,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 13686163504,
+    "name": "ZP Primary School Waroda",
+    "lat": 21.263086,
+    "lon": 78.905515,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 13686163507,
+    "name": "Carmel School",
+    "lat": 21.271923,
+    "lon": 78.912325,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 13711307901,
+    "name": "Narayana Vidyalaya",
+    "lat": 21.222132,
+    "lon": 79.0703,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 13786558485,
+    "name": "KV VSN Ground",
+    "lat": 21.159299,
+    "lon": 79.039943,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 13921076504,
+    "name": "M M Rabbani High School & Junior College Kamptee",
+    "lat": 21.219085,
+    "lon": 79.195127,
+    "amenity": "school",
+    "village": "",
+    "street": "Peeli Haveli Chowk"
+  },
+  {
+    "osm_id": 13945107601,
+    "name": "Millat Urdu High School",
+    "lat": 21.159105,
+    "lon": 79.121626,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 14116089101,
+    "name": "St Vincent palloti college of engineering and technology",
+    "lat": 21.00499,
+    "lon": 79.04735,
+    "amenity": "college",
+    "village": "",
+    "street": "Wardha road"
+  },
+  {
+    "osm_id": 60516582,
+    "name": "Shivaji Science College \u0936\u093f\u0935\u093e\u091c\u0940 \u0938\u093e\u0907\u0928\u094d\u0938 \u0915\u0945\u093e\u0932\u0947\u091c",
+    "lat": 21.128493,
+    "lon": 79.081808,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 93466775,
+    "name": "Lady Amritabai Daga (LAD) College",
+    "lat": 21.133673,
+    "lon": 79.057134,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 172470583,
+    "name": "Prerna Convent",
+    "lat": 21.131165,
+    "lon": 79.107508,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 172470585,
+    "name": "Shree Ayurved College",
+    "lat": 21.129813,
+    "lon": 79.106961,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 172530324,
+    "name": "Government College and Hospital",
+    "lat": 21.126359,
+    "lon": 79.114493,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 172823985,
+    "name": "Prabuddha Vidyalaya",
+    "lat": 21.130892,
+    "lon": 79.106209,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 172826210,
+    "name": "Anand Public School",
+    "lat": 21.134051,
+    "lon": 79.104779,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 259175413,
+    "name": "Somalwak Nikalas School",
+    "lat": 21.106634,
+    "lon": 79.057068,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 259175414,
+    "name": "Somalwar Khamla School",
+    "lat": 21.106058,
+    "lon": 79.056944,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 262643563,
+    "name": "Jupiter School",
+    "lat": 21.112431,
+    "lon": 79.066039,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 262643864,
+    "name": "Datta Meghe Polytechnic & Management Institute",
+    "lat": 21.114437,
+    "lon": 79.061543,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 262656367,
+    "name": "Saraswati Vidyalaya",
+    "lat": 21.135195,
+    "lon": 79.060211,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 262656488,
+    "name": "Dharampeth College",
+    "lat": 21.131442,
+    "lon": 79.047225,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 262657069,
+    "name": "Paranjape School",
+    "lat": 21.12765,
+    "lon": 79.061702,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 262807083,
+    "name": "NEERI School",
+    "lat": 21.119585,
+    "lon": 79.06509,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 262843034,
+    "name": "Deenanath School",
+    "lat": 21.135518,
+    "lon": 79.084364,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 262843891,
+    "name": "Mt. Carmel School",
+    "lat": 21.11945,
+    "lon": 79.073815,
+    "amenity": "school",
+    "village": "Nagpur",
+    "street": "Wardha Rd, Ajni Square, Vivekanand Nagar"
+  },
+  {
+    "osm_id": 280257857,
+    "name": "Dhanwate National College",
+    "lat": 21.129373,
+    "lon": 79.081849,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 280258354,
+    "name": "New English School, Congress Nagar",
+    "lat": 21.130137,
+    "lon": 79.081859,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 280258682,
+    "name": "Industrial Training Institute",
+    "lat": 21.128274,
+    "lon": 79.07266,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 280676132,
+    "name": "College of Fine Arts (Chitrakal Mahavidyalaya)",
+    "lat": 21.126174,
+    "lon": 79.067941,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 280676450,
+    "name": "Kurve's New Model High School",
+    "lat": 21.126179,
+    "lon": 79.070011,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 280676537,
+    "name": "Mundle English High School",
+    "lat": 21.126076,
+    "lon": 79.07103,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 306360803,
+    "name": "Mahila Maha Vidyalaya",
+    "lat": 21.135409,
+    "lon": 79.117318,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 308999334,
+    "name": "St John's public School",
+    "lat": 21.158742,
+    "lon": 79.086213,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 309520735,
+    "name": "Tidke School & AG College",
+    "lat": 21.170016,
+    "lon": 79.074111,
+    "amenity": "school",
+    "village": "Nagpur",
+    "street": "Katol Rd, Sadar"
+  },
+  {
+    "osm_id": 309520783,
+    "name": "Anjuman High School & Jr College",
+    "lat": 21.16515,
+    "lon": 79.080265,
+    "amenity": "school",
+    "village": "Nagpur",
+    "street": "Chindwada Rd, Mangalwari, Koradi Colony"
+  },
+  {
+    "osm_id": 310014599,
+    "name": "Geological Survey Of India Central Region",
+    "lat": 21.170261,
+    "lon": 79.051614,
+    "amenity": "college",
+    "village": "Nagpur",
+    "street": "Near Regional Passport Office, Seminary Hills"
+  },
+  {
+    "osm_id": 310058866,
+    "name": "Tripude Institute Of Management Education",
+    "lat": 21.163407,
+    "lon": 79.070729,
+    "amenity": "college",
+    "village": "Nagpur",
+    "street": "Putala Road, Balasaheb Tirpude Marg, Civil Lines"
+  },
+  {
+    "osm_id": 310460979,
+    "name": "SB College Ground",
+    "lat": 21.129493,
+    "lon": 79.111068,
+    "amenity": "college",
+    "village": "Nagpur",
+    "street": ""
+  },
+  {
+    "osm_id": 311691798,
+    "name": "VTC Ground",
+    "lat": 21.115596,
+    "lon": 79.061316,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 314123082,
+    "name": "Bishop Cotton School",
+    "lat": 21.15637,
+    "lon": 79.079655,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 381687184,
+    "name": "Bal Jagat",
+    "lat": 21.122507,
+    "lon": 79.06713,
+    "amenity": "kindergarten",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 387468482,
+    "name": "Kendriya Vidyalaya, Ajni",
+    "lat": 21.124451,
+    "lon": 79.089748,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 389322240,
+    "name": "MKH Sancheti Public School & Junior College",
+    "lat": 21.11529,
+    "lon": 79.072945,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 389395060,
+    "name": "Samarth Highschool",
+    "lat": 21.338602,
+    "lon": 79.377038,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 389396517,
+    "name": "Late Adv Nandkishor Jaiswal Highschool",
+    "lat": 21.338127,
+    "lon": 79.378287,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 389401303,
+    "name": "Zilla Parishad Primary School",
+    "lat": 21.335016,
+    "lon": 79.384835,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 389506364,
+    "name": "Suraj Matimand Mula-Mulinchi Nivasi Shala",
+    "lat": 21.340847,
+    "lon": 79.372808,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 390177694,
+    "name": "Indira Gandhi High School",
+    "lat": 21.119135,
+    "lon": 79.107372,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 390177698,
+    "name": "Balaji Convent",
+    "lat": 21.118697,
+    "lon": 79.10736,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 390449250,
+    "name": "Kusumtai Dhawde High Primary School",
+    "lat": 21.119792,
+    "lon": 79.10619,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 390559763,
+    "name": "Indira Gandhi High School",
+    "lat": 21.11895,
+    "lon": 79.107378,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 390559764,
+    "name": "Adarsh Vidya Mandir",
+    "lat": 21.11833,
+    "lon": 79.107352,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 390601878,
+    "name": "Charisma English Convent",
+    "lat": 21.120433,
+    "lon": 79.104465,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 391546232,
+    "name": "Sainath Vidyalaya Borda",
+    "lat": 21.271274,
+    "lon": 79.256677,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 391554052,
+    "name": "Shri Narendra Tidke College of Arts and Commerce",
+    "lat": 21.390094,
+    "lon": 79.337281,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 391590270,
+    "name": "Adarsh Vidyalaya",
+    "lat": 21.392147,
+    "lon": 79.327049,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 391621143,
+    "name": "Samarth High School and Junior College",
+    "lat": 21.395297,
+    "lon": 79.323171,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 391740279,
+    "name": "Kavikulguru Institute of Technology and Science",
+    "lat": 21.386024,
+    "lon": 79.305169,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 391740363,
+    "name": "Samarth High School",
+    "lat": 21.399514,
+    "lon": 79.32415,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 391740367,
+    "name": "Shri Ram Vidyalaya",
+    "lat": 21.395443,
+    "lon": 79.324905,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 391931230,
+    "name": "Nagarik Adhyapak Vidyalaya",
+    "lat": 21.38513,
+    "lon": 79.354947,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 391931236,
+    "name": "Nagarjuna Collge of Physical Education",
+    "lat": 21.38461,
+    "lon": 79.355245,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 392073873,
+    "name": "Vidyasagar Arts College",
+    "lat": 21.390339,
+    "lon": 79.284447,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 392073876,
+    "name": "Government ITI",
+    "lat": 21.394776,
+    "lon": 79.286509,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 392243458,
+    "name": "Rashtriya Adhyapak Vidyalaya",
+    "lat": 21.128659,
+    "lon": 79.105289,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 392243466,
+    "name": "Rashtriya Vidyalaya",
+    "lat": 21.128198,
+    "lon": 79.105281,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 392270693,
+    "name": "Ramji Mahajan High School",
+    "lat": 21.395423,
+    "lon": 79.327119,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 392270695,
+    "name": "Dnyandeep Convent and Junior College",
+    "lat": 21.397958,
+    "lon": 79.308565,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 392270698,
+    "name": "Sant Gajanan Covent",
+    "lat": 21.395068,
+    "lon": 79.303754,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 393682946,
+    "name": "Bhausaheb Survey High School",
+    "lat": 21.122646,
+    "lon": 79.111993,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 394314844,
+    "name": "Avatar Meher Baba Mahavidyalaya and Technical Institute",
+    "lat": 21.104772,
+    "lon": 79.102497,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 394314846,
+    "name": "Shree Convent High School and Junior College",
+    "lat": 21.104507,
+    "lon": 79.102602,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 395048514,
+    "name": "Shahu's Garden High School and Junior College",
+    "lat": 21.108605,
+    "lon": 79.103166,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 395048516,
+    "name": "Siddheshwar Uchch Madhyamik Vidyalaya",
+    "lat": 21.108129,
+    "lon": 79.103073,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 396521131,
+    "name": "Ashram Shala",
+    "lat": 21.25948,
+    "lon": 79.238756,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 396521132,
+    "name": "Beharilal Khandelwal Comprehensive Public School Kanhan",
+    "lat": 21.224751,
+    "lon": 79.233043,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 396521140,
+    "name": "Providence School, Mansar",
+    "lat": 21.392883,
+    "lon": 79.271619,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 444230625,
+    "name": "Late Rajiv Gandhi Marathi High School Suradevi",
+    "lat": 21.2486,
+    "lon": 79.122073,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 444728660,
+    "name": "Vasantrao Naik Government Institute of Arts and Social Sciences",
+    "lat": 21.151452,
+    "lon": 79.082061,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 449824941,
+    "name": "K John Public School",
+    "lat": 21.396392,
+    "lon": 78.939864,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 475908392,
+    "name": "Govindrao Wanjari College of Engineering and Technology",
+    "lat": 21.021322,
+    "lon": 79.130248,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 477284883,
+    "name": "Smt. Radhikatai Pandav College of Engineering",
+    "lat": 21.096084,
+    "lon": 79.152112,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 484607920,
+    "name": "Industrial Training Institute",
+    "lat": 20.779136,
+    "lon": 79.492998,
+    "amenity": "college",
+    "village": "Bhiwapur",
+    "street": ""
+  },
+  {
+    "osm_id": 487389296,
+    "name": "Vimaltai Tidke Convent, Beltarodi",
+    "lat": 21.080441,
+    "lon": 79.077285,
+    "amenity": "school",
+    "village": "Nagpur",
+    "street": ""
+  },
+  {
+    "osm_id": 487394462,
+    "name": "School of Scholar",
+    "lat": 21.081694,
+    "lon": 79.129095,
+    "amenity": "school",
+    "village": "nagpur",
+    "street": "Chandrakiran Nagar"
+  },
+  {
+    "osm_id": 744515604,
+    "name": "St. Xavier's High School",
+    "lat": 21.139905,
+    "lon": 79.135722,
+    "amenity": "school",
+    "village": "Nagpur",
+    "street": "Great Nag Road"
+  },
+  {
+    "osm_id": 833096606,
+    "name": "Adarsh sanskar vidyalaya and junior college",
+    "lat": 21.084442,
+    "lon": 79.121846,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 1119416845,
+    "name": "Pratrishruti ground",
+    "lat": 21.177914,
+    "lon": 79.060997,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 1119441033,
+    "name": "Ramdeobaba University (RBU)",
+    "lat": 21.176758,
+    "lon": 79.061147,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 1153722727,
+    "name": "Pragatik high school",
+    "lat": 21.240233,
+    "lon": 79.078273,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 1163912912,
+    "name": "Podar International School",
+    "lat": 21.225309,
+    "lon": 79.062277,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 1173082877,
+    "name": "Trupti convent",
+    "lat": 21.114138,
+    "lon": 79.108049,
+    "amenity": "kindergarten",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 1202248318,
+    "name": "school ground -Kendriya vidyalaya crpf nagpur",
+    "lat": 21.097115,
+    "lon": 79.010317,
+    "amenity": "school",
+    "village": "Nagpur City",
+    "street": ""
+  },
+  {
+    "osm_id": 1225578981,
+    "name": "Smt. KDM Girls Collage",
+    "lat": 21.15297,
+    "lon": 79.030665,
+    "amenity": "college",
+    "village": "",
+    "street": ""
+  },
+  {
+    "osm_id": 1245193731,
+    "name": "Pandit Nehru High School",
+    "lat": 21.17662,
+    "lon": 79.035022,
+    "amenity": "school",
+    "village": "Nagpur",
+    "street": "Katol Road"
+  },
+  {
+    "osm_id": 1245206143,
+    "name": "Makardhokda School",
+    "lat": 21.177933,
+    "lon": 79.035897,
+    "amenity": "school",
+    "village": "Nagpur",
+    "street": "Katol Road"
+  },
+  {
+    "osm_id": 1287309309,
+    "name": "S F S School of Excellency",
+    "lat": 21.165528,
+    "lon": 79.066689,
+    "amenity": "school",
+    "village": "",
+    "street": "Seminary Hills Road"
+  },
+  {
+    "osm_id": 1287309394,
+    "name": "Divine Providence School",
+    "lat": 21.206437,
+    "lon": 78.990657,
+    "amenity": "school",
+    "village": "",
+    "street": "Fetri"
+  },
+  {
+    "osm_id": 1360413645,
+    "name": "somalwada marathi primary school",
+    "lat": 21.09996,
+    "lon": 79.066826,
+    "amenity": "school",
+    "village": "",
+    "street": ""
+  }
+]

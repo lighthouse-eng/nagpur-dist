@@ -1,0 +1,7 @@
+{
+  "name": "Lighthouse School Visit",
+  "description": "Mobile-friendly school visit locator, search, and field mapping system with distance tracking and 200 KM radius verification.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
